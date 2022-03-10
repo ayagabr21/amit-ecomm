@@ -1,0 +1,23 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.card img{
+    height: 35vh;
+}
+
+.carousel-item {
+    height: 700px;
+ 
+  }
+  
+  /* #main_img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 100px;
+  } */
+ 
